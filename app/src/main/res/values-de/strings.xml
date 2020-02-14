@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">atividade1</string>
+    <string name="title">Land</string>
+    <string name="country">Deutschland</string>
+    <string name="flag">Deutschland Flagge</string>
+    <string name="menu">Wurst</string>
+</resources>

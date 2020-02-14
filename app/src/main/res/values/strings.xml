@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">atividade1</string>
+    <string name="title">País</string>
+    <string name="country">Brasil</string>
+    <string name="flag">Bandeira do Brasil</string>
+    <string name="menu">Feijoada</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">atividade1</string>
+    <string name="title">بلد</string>
+    <string name="country">المملكة العربية السعودية</string>
+    <string name="flag">علم المملكة العربية السعودية</string>
+    <string name="menu">تورم القدمين</string>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/atv1LinearLayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/title"
+        android:textColor="@color/title_textcolor"
+        android:textSize="@dimen/title_textsize" />
+
+    <TextView
+        android:id="@+id/countryTextView2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/country"
+        android:textColor="@color/title_textcolor"
+        android:textSize="@dimen/title_textsize" />
+
+    <ImageView
+        android:id="@+id/flagImageView"
+        android:layout_width="@dimen/flag_imagesize"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/flag"
+        android:layout_weight="2"
+        android:contentDescription="@string/flag" />
+
+    <ImageView
+        android:id="@+id/menuImageView"
+        android:layout_width="@dimen/menu_imagesize"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/menu"
+        android:layout_weight="2"
+        android:contentDescription="@string/menu" />
+
+    <TextView
+        android:id="@+id/menuTextView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/menu"
+        android:textColor="@color/title_textcolor"
+        android:textSize="@dimen/menu_textsize" />
+
+</LinearLayout>

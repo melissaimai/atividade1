@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_textsize">24sp</dimen>
+    <dimen name="menu_textsize">24sp</dimen>
+    <dimen name="menu_imagesize">250dp</dimen>
+    <dimen name="flag_imagesize">250dp</dimen>
+</resources>
